@@ -4,7 +4,7 @@
 
 ### Bio
 - 🔭 I’m currently working on refreshing my skills at General Assembly
-- 🌱 I’m currently learning
+- 🌱 I’m currently working on
   -  MERN (MongoDB, Express, React, and Node) stack
   -  Django
   -  Flask
