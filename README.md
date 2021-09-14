@@ -8,7 +8,8 @@
   -  MERN (MongoDB, Express, React, and Node) stack
   -  Django
   -  Flask
-  -  DS courses on [Kaggle](https://www.kaggle.com/) :heart_eyes: I love ML!!!
+  -  DS courses on [Kaggle](https://www.kaggle.com/davidnagarpowers/code) :heart_eyes: I love ML!!!
+      -  Some notebooks of mine: [Titanic Dataset](https://www.kaggle.com/davidnagarpowers/titanic-eda-1?scriptVersionId=66230741)
   -  And any Python related topic I can find on [RealPython](https://realpython.com/)
 - 👯 I’m looking to collaborate on any projects!
 - 💬 Ask me about Python; I am obsessed :zany_face:
