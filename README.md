@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="333" height="213" />
 
 ### Bio
-- 🔭 I’m currently working on refreshing my skills at General Assembly
 - 🌱 I’m currently working on
   -  MERN (MongoDB, Express, React, and Node) stack
   -  Django
