@@ -30,6 +30,7 @@
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img src="https://user-images.githubusercontent.com/5464276/148835226-2b1a2d15-841c-4810-b1e6-91da3d0350b2.png" height=90 ></code>
 
 ### 📈 My Github Stats
 <p align="center"><a href="https://github.com/danyeric123/danyeric123">
