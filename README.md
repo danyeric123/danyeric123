@@ -35,6 +35,6 @@
 
 ### 📈 My Github Stats
 <p align="center"><a href="https://github.com/danyeric123/danyeric123">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyeric123&hide=html,css,jupyter notebook, ejs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyeric123&hide=html,css,jupyter notebook, ejs, Procfile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
 </a>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danyeric123&show_icons=true&theme=gotham" alt="danyeric123" />
