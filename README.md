@@ -1,4 +1,4 @@
-# Hi there 👋 I am David Nagarpowers!
+# Hi there 👋 I am David Nagarpowers! <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanyeric1212%2Fhit-counter" />
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="333" height="213" />
 
@@ -12,7 +12,10 @@
   -  And any Python related topic I can find on [RealPython](https://realpython.com/)
 - 👯 I’m looking to collaborate on any projects!
 - 💬 Ask me about Python; I am obsessed :zany_face:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-nagarpowers) or [Email](mailto:dnagarpowers@gmail.com?subject=[GitHub]%20Reaching%20Out)
+- 📫 How to reach me: 
+   
+   <a href="https://www.linkedin.com/in/david-nagarpowers">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+  <a href="mailto:dnagarpowers@gmail.com?subject=[GitHub]%20Reaching%20Out"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 ## Languages and Tools:
 
@@ -20,7 +23,6 @@
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
@@ -42,6 +44,8 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> 
+ <img src= https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59 />
+  <img src=  https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />
   </div>
 
 ## Certificates:
