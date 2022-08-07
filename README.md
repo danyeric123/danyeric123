@@ -1,4 +1,4 @@
-# Hi there 👋 I am David Nagarpowers! <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanyeric1212%2Fhit-counter" />
+# Hi there 👋 I am David Nagarpowers!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="333" height="213" />
 
