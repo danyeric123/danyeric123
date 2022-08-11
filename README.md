@@ -50,8 +50,8 @@
 
 ## Certificates:
 <div style="flex">
-<img src="https://user-images.githubusercontent.com/5464276/148835226-2b1a2d15-841c-4810-b1e6-91da3d0350b2.png" height=90 >
-<img src="https://lh3.googleusercontent.com/-pRBGgRU7_q8/Yd_cxnvcAOI/AAAAAAAAASs/Ngs3Qe8915QSyaLCopAG1Hb1d8OvGO2fACNcBGAsYHQ/s1600/1642060996597100-0.png" height=90 >
+<img src="https://user-images.githubusercontent.com/5464276/148835226-2b1a2d15-841c-4810-b1e6-91da3d0350b2.png" height=90 />
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47478539" height=90 />
 </div>
 
 ## 📈 My Github Stats
