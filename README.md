@@ -56,6 +56,6 @@
 
 ## 📈 My Github Stats
 <div style="flex">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyeric123&hide=html,css,jupyter notebook, ejs, Procfile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyeric123&hide=html,css,jupyter%20notebook,ejs,Procfile,Dockerfile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
 <img src="https://github-readme-stats.vercel.app/api?username=danyeric123&show_icons=true&theme=gotham" alt="danyeric123" />
 </div>
