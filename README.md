@@ -5,6 +5,9 @@
 ## Bio
 - 👯 I’m looking to collaborate on any projects!
 - 💬 Ask me about Python; I am obsessed :zany_face:
+- Want to chat or buy me a coffee?
+
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dnagarpowers)
 - 📫 How to reach me: 
    
    <a href="https://www.linkedin.com/in/david-nagarpowers">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
